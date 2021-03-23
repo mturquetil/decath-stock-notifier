@@ -1,6 +1,6 @@
 # decath-stock-notifier
 
-[Here's an explaining article of why I did this(Here's an explaining article of why I did this](https://blog.mturquetil.fr/other/decath-stock-notifier/)
+[Here's an explaining article of why I did this.](https://blog.mturquetil.fr/other/decath-stock-notifier)
 
 crontab -e
 ```bash
